@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl" type="text/xsl"?>
+<squad nick="!(future)MC">
+	<name>TS3: tyron2k.i234.me</name>
+	<email>qthlej@msn.com</email>
+	<web>http://www.ustream.tv/channel/iss-hdev-payload/pop-out</web>
+	<picture>germa.jpg</picture>
+	<title>!(future) Motorcycle Club Leipzig Original</title>
+	<member id="76561198059891487" nick="IIIIIII%20Tim%202GebJgBtl571">
+		<name>Arron Bronsky</name>
+		<email>thirdparties@msn.com</email>
+		<icq>91752395</icq>
+		<remark>load "*",8,1</remark>
+	</member>
+</squad>
